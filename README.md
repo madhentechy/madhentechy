@@ -16,7 +16,7 @@ As a passionate Computer Science student and dedicated Java developer, I thrive 
 Eager to connect with like-minded professionals, I'm always open to sharing insights and exploring new opportunities that challenge my abilities and broaden my horizons. Let's connect and collaborate to shape the future of technology and innovation together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/madhen-c-77b317253/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/madhentechy)
+
 
 ---
 Feel free to reach out and let's make something great happen! 🚀
